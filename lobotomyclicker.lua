@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("lobotomy Clicker by savvacorgi", "Midnight")
+local Window = Library.CreateLib("lobotomy Clicker script by savvacorgi", "Midnight")
 local Tab = Window:NewTab("Script")
 local Section = Tab:NewSection("Dont use Arch btw")
 Section:NewButton("AutoClicker", "AutoClicker", function()
